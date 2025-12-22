@@ -1,0 +1,8 @@
+[project]
+name = "test_functions"
+version = "0.0.1"
+description = "🦾 Simple functions for testing with pretty printing"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
